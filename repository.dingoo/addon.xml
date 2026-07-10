@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.dingoo" name="Dingoo Repository" version="1.0.0" provider-name="dingoo">
+	<extension point="xbmc.addon.repository" name="Dingoo Repository">
+		<dir>
+			<info compressed="false">https://einbanane-ai.github.io/dingoo/addons.xml</info>
+			<checksum>https://einbanane-ai.github.io/dingoo/addons.xml.md5</checksum>
+			<datadir zip="true">https://einbanane-ai.github.io/dingoo/zips/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Dingoo Kodi Addon Repository</summary>
+		<description>Hosts Fen Light AM, CocoScrapers, FENtastic skin and FENtastic Helper with automatic updates.</description>
+		<platform>all</platform>
+	</extension>
+</addon>

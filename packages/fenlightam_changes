@@ -1,0 +1,5 @@
+[B]Version 2.3.0[/B]
+
+- Updated to Fen Light AM 2.3.0
+- Adds MDbList and SIMKL integration, intro-skip support, local/settings backup tools, most-watched lists
+- Hosted from the dingoo repository
